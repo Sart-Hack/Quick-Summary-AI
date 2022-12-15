@@ -1,3 +1,5 @@
-# buildspace 
-### Welcome 👋
-This is the starter template for the [build your own AI writing assistant w/ GPT-3](https://buildspace.so/builds/ai-writer) project.
+# Quick Summary  A.I
+
+copy paste an article or a blog post and the AI will magically give you bullet points summary
+
+https://summari.me/
