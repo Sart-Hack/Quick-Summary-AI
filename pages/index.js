@@ -1,6 +1,6 @@
 import Head from 'next/head';
 import Image from 'next/image';
-import buildspaceLogo from '../assets/buildspace-logo.png';
+import githubLogo from '../assets/github-mark-white.png'
 import notesLogo from '../assets/icons8-notes-64.png'
 import { useState } from 'react';
 
@@ -73,18 +73,18 @@ const Home = () => {
         </div>
       </div>
 
-      {/* <div className="badge-container grow">
+      <div className="badge-container grow">
         <a
-          href="https://buildspace.so/builds/ai-writer"
+          href="https://github.com/Sart-Hack"
           target="_blank"
           rel="noreferrer"
         >
           <div className="badge">
-            <Image src={buildspaceLogo} alt="buildspace logo" />
-            <p>build with buildspace</p>
+            <Image src={githubLogo} alt="github logo" />
+            <p>Source</p>
           </div>
         </a>
-      </div> */}
+      </div>
     </div>
   );
 };
